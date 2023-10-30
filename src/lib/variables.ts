@@ -1,0 +1,3 @@
+export const PUBLIC_KEY_ALWAYS_PASSES = '1x00000000000000000000AA'
+export const CHALLENGE_URL = 'https://challenges.cloudflare.com/turnstile/v0/siteverify'
+export const CLOUDFLARE_TURNSTILE_PRIVATE_KEY_ALWAYS_PASSES = '1x0000000000000000000000000000000AA'
